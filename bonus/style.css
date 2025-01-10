@@ -2,6 +2,17 @@
     text-align: center;
 }
 
+.foto{
+    margin: auto;
+    width: 200px;
+    height: 350px;
+}
+
+.foto > img{
+    width: 100%;
+    height: 100%;
+}
+
 .bottone{
     width: 100px;
     height: 30px;
