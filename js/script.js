@@ -9,8 +9,6 @@ const img = document.querySelector('.off');
 // gestione dell'evento
 bottone.addEventListener('click', function(){
     img.src = './img/yellow_lamp.png';
-    img.classList.remove('off');
-    img.classList.add('on');
 });
 
 
