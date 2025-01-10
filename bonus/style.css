@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+}
+
+.bottone{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: green;
+    cursor: pointer;
+}
+
+.active{
+    display: inline-block;
+}
+
+.hidden{
+    display: none;
+}
+
